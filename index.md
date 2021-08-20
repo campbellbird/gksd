@@ -33,6 +33,6 @@ display:inline-block;
    Volunteer"></button></a></p>
   </center>
   <p>
-    <a href="https://www.volunteer.readby4th.org"><img src="Images/button_back-to-portal.png" alt="Go Back"></a>
+    <a href="https://www.volunteer.readby4th.org"><img src="Images/button_back-to-portal.png"></a>
 </body>
 </html>
