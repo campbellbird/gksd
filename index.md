@@ -22,7 +22,7 @@ display:inline-block;
 <meta charset="utf-8">
 <meta name="Give Kids Sight Day">
 
- <title>Give Kids Sight Day</title>
+<title>Give Kids Sight Day</title>
 </head>
 <body>
 <center>
