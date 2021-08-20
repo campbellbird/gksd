@@ -33,5 +33,3 @@ display:inline-block;
    Volunteer"></a></p>
   <p><br><br>
     <a href="https://www.volunteer.readby4th.org"><img src="Images/button_back-to-portal.png"></a>
-  
-
