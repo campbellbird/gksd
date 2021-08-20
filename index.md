@@ -1,2 +1,2 @@
 Trying to figure this out!
-<img src="Images/Logo.png">
+<img src="Images/GKSDLogo.jpg">
