@@ -28,8 +28,8 @@ display:inline-block;
 <center>
   <p>Thanks for your interest in volunteering for Give Kids Sight Day. See links below for more information or to volunteer.</p>
   <img src="Images/GKSDLogo.jpg">
- <button type="button home-button" id="button1" ><img src="Images/button_more-info.png" alt="more info"></button>
- <button type="button contact-button" id="button2"><img src="Images/button_volunteer.png" alt="volunteer"></button>
+ <p><a href="https://www.childrenfirstpa.org/resource/give-kids-sight-day/"><button type="button more-info" id="button1" ><img src="Images/button_more-info.png" alt="more info"></button></a>
+ <a href="https://www.signupgenius.com/go/4090849aaaa22aaff2-give6"><button type="button volunteer-button" id="button2"><img src="Images/button_volunteer.png" alt="volunteer"></button></a></p>
   </center>
 </body>
 </html>
