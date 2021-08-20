@@ -32,7 +32,6 @@ display:inline-block;
  <a href="https://www.signupgenius.com/go/4090849aaaa22aaff2-give6"><img src="Images/button_volunteer.png" alt="
    Volunteer"></a></p>
   <p><br><br>
-    <a href="https://www.volunteer.readby4th.org"><img src="Images/button_back-to-portal.png"></a>
-  </center>
+    <a href="https://www.volunteer.readby4th.org"><img src="Images/button_back-to-portal.png"></a></center>
   
 
