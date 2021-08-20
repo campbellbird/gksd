@@ -1,2 +1,3 @@
-Trying to figure this out!
-<img src="Images/GKSDLogo.jpg">
+<center>
+  <img src="Images/GKSDLogo.jpg">
+</center>
